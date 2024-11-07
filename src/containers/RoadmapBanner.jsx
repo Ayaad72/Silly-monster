@@ -11,7 +11,7 @@ const RoadmapBanner = () => {
       <div className="title-wrapper">
         <H2 type="dark">Roadmap</H2>
         <Text type="dark">
-          The below roadmap guides Silly Monster project in becoming the most
+          The below roadmap guides sillies Monster project in becoming the most
           adorable NFT club. We are currently working on some amazing ideas.
         </Text>
       </div>
